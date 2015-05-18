@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://aequanimitias.github.io
+title: USMLE Notes
+tagline: Nuggets of USMLE Study Notes
+description: Notes from my USMLE Study
+paginate: 5
